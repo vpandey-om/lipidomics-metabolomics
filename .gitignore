@@ -1,0 +1,17 @@
+# Ignore files
+*.pdf
+*.txt
+*.xlsx
+
+# Python cache
+**/__pycache__/
+**/*.pyc
+
+# macOS system files
+.DS_Store
+
+# Optional: ignore output folders if they are generated
+headgroup_plots_sum/
+headgroup_species_plots/
+PLmode2_allinone/
+metabolomics/newfig/
