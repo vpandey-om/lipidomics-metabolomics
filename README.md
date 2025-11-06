@@ -40,7 +40,7 @@ python box_plot_final.py   --domain headgroup   --groups "PC,PE,PI,SM,HexCer"   
 ### **3. Plot selected individual lipid species**
 
 ``` bash
-python individual_box_plot.py   --file "/Users/vikash/Documents/Thorey and Martina_Umea/Analysis/Lipid_scripts/thoreylipid/Final_Combined_Lipidomics.txt"   --species "LPE 20:4,LPE 18:0,PE 38:4,LPE O-18:0"
+python individual_box_plot.py   --file "Final_Combined_Lipidomics.txt"   --species "LPE 20:4,LPE 18:0,PE 38:4,LPE O-18:0"
 ```
 
 ### **4. Individual volcano plots**
